@@ -3,7 +3,7 @@ package deqo.ebra.mysimplestack;
 import java.util.EmptyStackException;
 
 public class Stack implements SimpleStack {
-private java.util.Stack<Item> pile;
+private java.util.Stack<Item> pile;//issue 2
     public Stack() {
         pile = new java.util.Stack<>();
     }
