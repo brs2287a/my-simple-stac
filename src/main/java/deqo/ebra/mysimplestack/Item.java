@@ -2,7 +2,7 @@ package deqo.ebra.mysimplestack;
 
 public class Item {
 
-    private int value;
+    private int value; //modif issue third issue
 
     public Item (int i){
         value = i;
